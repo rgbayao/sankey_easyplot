@@ -4,4 +4,4 @@ Library to help in plotting Plotly's Sankey Charts. It can make the plot by only
 
 ## Example
 
-The Example.ipynb shows an example of how to run the library
+The Example.ipynb shows an example of how to run the library.
